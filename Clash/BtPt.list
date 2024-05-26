@@ -113,7 +113,7 @@ DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,uhdbits.org
 DOMAIN-SUFFIX,xauat6.edu.cn
 PROCESS-NAME,aria2c.exe
-PROCESS-NAME,BitComet.exe
+PROCESS-NAME,BitComet_x64.exe
 PROCESS-NAME,fdm.exe
 PROCESS-NAME,NetTransport.exe
 PROCESS-NAME,qbittorrent.exe

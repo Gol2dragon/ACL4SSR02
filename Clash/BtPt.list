@@ -1,5 +1,5 @@
 # 内容：BT & PT
-# 数量：112条
+# 数量：127条
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
@@ -112,3 +112,18 @@ DOMAIN-SUFFIX,trontv.com
 DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,uhdbits.org
 DOMAIN-SUFFIX,xauat6.edu.cn
+PROCESS-NAME,aria2c.exe
+PROCESS-NAME,BitComet.exe
+PROCESS-NAME,fdm.exe
+PROCESS-NAME,NetTransport.exe
+PROCESS-NAME,qbittorrent.exe
+PROCESS-NAME,Thunder.exe
+PROCESS-NAME,transmission-daemon.exe
+PROCESS-NAME,transmission-qt.exe
+PROCESS-NAME,uTorrent.exe
+PROCESS-NAME,Folx.exe
+PROCESS-NAME,NetTransport.exe
+PROCESS-NAME,Transmission.exe
+PROCESS-NAME,transmission.exe
+PROCESS-NAME,WebTorrent.exe
+PROCESS-NAME,WebTorrent Helper.exe
